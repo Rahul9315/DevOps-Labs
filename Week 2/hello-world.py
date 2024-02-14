@@ -1,4 +1,4 @@
-print("Hello Git Worlfd")
+print("This is another String!")
 print("welcome to codinorld\n")
 print("For Loop Starts Here until 10")
 
